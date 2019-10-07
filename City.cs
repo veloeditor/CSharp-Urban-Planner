@@ -12,7 +12,6 @@ namespace Planner
         // 3. Year the city was established.
         // 4. A collection of all of the buildings in the city.
         // 5. A method to add a building to the city.
-        // Remember, each class should be in its own file.Create a City.cs file and define the City class in there.Make sure it's in the same namespace as your other classes.
 
         public string cityName;
         private string _mayor;
